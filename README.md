@@ -1,6 +1,6 @@
 ### Things I know
 
-Languages:
+Programming Languages:
 
 * C/++
 * Java
@@ -8,7 +8,7 @@ Languages:
 * MatLab
 * Lua
 
-Things people think are languages:
+Things people think are programming languages:
 
 * HTML
 * CSS
